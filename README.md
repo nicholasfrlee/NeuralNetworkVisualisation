@@ -1,5 +1,11 @@
 ## README.md
 
+This is a repository dedicated to try to visualise an instance of a neural network, based on the different layer sizes and activation functions in between the layers. The code is based off the Manim Python library.
+
+Demo photos can be found under images/EXAMPLE_SCENE_X.jpg
+
+The focus of this point in the repository is the 2 files neural_net.py and visualise.py, whereby neural_net.py is a simple file to generate an instance of a neural network and train it on the MNIST fashion dataset. visualise.py is an attempt to visualise the layers of the neural network specified in neural_net.py
+
 **How to run the code in this repository**
 
 To run the code in this repository, you will need to have the following installed:
